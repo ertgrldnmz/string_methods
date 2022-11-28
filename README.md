@@ -5,14 +5,14 @@
         string degisken="Dersimize Csharp hoşgeldiniz";
         string degisken2="Csharp";
 
-        Length
+        //Length
         Console.WriteLine(degisken.Length);
 
-        ToUpper and ToLower
+        //ToUpper and ToLower
         Console.WriteLine(degisken.ToLower());
         Console.WriteLine(degisken.ToUpper());
 
-        //Concat
+         //Concat
          Console.WriteLine(string.Concat(degisken," Merhaba"));
 
          //Compare, CompareTo
